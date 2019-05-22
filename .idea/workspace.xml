@@ -2,37 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1a36d7-bd3a-4e84-9a9f-ab6e6d73286c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/resources/views/Search engine.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project/vendor/autoload.php" afterPath="$PROJECT_DIR$/Project/vendor/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/Project/vendor/composer/autoload_real.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/Project/vendor/composer/autoload_static.php" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GreenPapers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GreenPapers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/Project/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/LAPTOP-SFF2C62N.pid" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/LAPTOP-SFF2C62N.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/mysql/innodb_index_stats.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/mysql/innodb_index_stats.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/mysql/innodb_table_stats.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/mysql/innodb_table_stats.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/mysqld.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/mysqld.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/tutorial/projects.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/tutorial/projects.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/tutorial/tasks.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/tutorial/tasks.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/tutorial/telescope_entries.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/tutorial/telescope_entries.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/tutorial/telescope_entries_tags.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/tutorial/telescope_entries_tags.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mysql/tutorial/users.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/tutorial/users.ibd" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Project/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Search engine.html" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project/resources/views/Search engine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="96">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/OneDrive/Bureaublad/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -53,81 +76,116 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Project/resources/views/Search engine.html" />
+        <option value="$USER_HOME$/OneDrive/Bureaublad/index.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
-    <annotation-enable>false</annotation-enable>
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Project/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Project/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/Project/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/Project/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/Project/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Project/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Project/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/Project/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/Project/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/Project/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Project/vendor/composer" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Project/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/Project/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Project/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/Project/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Project/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Project/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Project/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Project/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Project/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Project/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Project/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Project/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Project/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Project/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Project/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Project/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Project/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Project/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Project/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Project/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Project/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Project/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Project/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Project/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/Project/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Project/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/Project/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Project/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Project/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Project/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Project/vendor/psr/container" />
+    </include_path>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="951" />
+    <option name="width" value="977" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="GreenPapers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenPapers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GreenPapers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenPapers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Project" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GreenPapers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenPapers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GreenPapers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GreenPapers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.PHP" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,8 +199,8 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -153,94 +211,106 @@
       <updated>1557142655001</updated>
       <workItem from="1557142657685" duration="328000" />
       <workItem from="1557308310108" duration="1297000" />
+      <workItem from="1558349973053" duration="859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1625000" />
+    <option name="totallyTimeSpent" value="2484000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31732777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1583558" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Project/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/routes/console.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/routes/channels.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/routes/api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/resources/views/Search engine.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="96">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/OneDrive/Bureaublad/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19401444" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
