@@ -1,0 +1,523 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin:0px;
+	padding:0px;
+}
+
+.container-fluid {
+	height:auto;
+	width:100%;
+	padding:0px !important;
+}
+
+#menu {
+	height:100px;
+	width:100%;
+	background-color:#3D3D3D;
+}
+
+a.nav-link.menu {
+	font-family:Helvetica;
+	font-size:17px;
+	color:#F8F8F8 !important;
+}
+
+a.nav-link.menu:hover {
+	color:#FF9900 !important;
+}
+
+.navbar.navbar-expand-sm.bg-light {
+	height:100px;
+	right:170px;
+	background-color:transparent !important;
+}
+
+.nav-link {
+	font-family:Helvetica;
+	font-size:17px;
+	color:white;
+}
+
+a.nav-link:hover {
+	color:#FF9900;
+}
+
+#header {
+	height:520px;
+	width:100%;
+	position:relative;
+	background-image:url(active-adventure-bicycle-1208777.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+img.logo {
+	height:200px;
+	max-width:100%;
+	position:absolute;
+	top:16px;
+	left:50px;
+	z-index:99999;
+}
+
+#titel {
+	height:200px;
+	width:40%;
+	top:30%;
+	left:30%;
+	line-height:200px;
+	vertical-align:middle;
+	text-align:center;
+	position:relative;
+	color:white;
+}
+
+h1.home {
+	margin:35px;
+	font-size:4.2em;
+}
+
+h5.home {
+	margin:0px !important;
+	font-size:1.25em;
+}
+
+#zoekbalk {
+	height:50px;
+	width:100%;
+	background-color:#F8F8F8;
+}
+
+input[type=text] {
+	border:none;
+	border-radius:25px;
+	height:30px;
+	text-align:center;
+	color:white;
+	margin:10px 0px 0px 1%;
+  	font-size:17px;
+	background-color:#3D3D3D;
+	outline:none;
+  	box-shadow:none;
+}
+
+input[type=text]::placeholder {
+  	color:#F8F8F8;
+}
+
+.fa-search {
+	color:#3D3D3D;
+	margin-left:5.25%;
+	font-size:20px;
+}
+
+.dropdown {
+	display:inline-block;
+}
+
+.btn.btn-primary.dropdown-toggle {
+	border:none;
+	border-radius:25px;
+	height:30px;
+	width:100px;
+	line-height:15px;
+	text-align:center;
+	color:white;
+	margin-left:20%;
+  	font-size:17px;
+	background-color:#3D3D3D;
+	margin-top:-5px;
+}
+
+.btn.btn-primary.dropdown-toggle:hover, .btn.btn-primary.dropdown-toggle:active:focus {
+	background-color:#FF9900;
+}
+
+.show > .btn-primary.dropdown-toggle, .show > .btn-primary.dropdown-toggle:active {
+	background-color:#FF9900 !important;
+}
+
+.dropdown-menu {
+	background-color:#3D3D3D !important;
+}
+
+a:hover {
+	text-decoration:none !important;
+}
+
+a {
+	color:white !important;
+}
+
+li a:hover {
+	text-decoration:none !important;
+	color:#FF9900 !important;
+}
+
+ul.dropdown-menu.show {
+	padding:10px;	
+}
+
+.login {
+	border:none;
+	border-radius:25px;
+	height:30px;
+	width:150px;
+	line-height:30px;
+	text-align:center;
+	color:white;
+	margin:-65px 20px 0px 0px;
+  	font-size:17px;
+	background-color:#17A2B8;
+	float:right;
+}
+
+.login:hover {
+	text-decoration:none;
+	background-color:#FF9900;
+}
+
+.winkelwagen {
+	border:none;
+	border-radius:25px;
+	height:30px;
+	width:150px;
+	line-height:30px;
+	text-align:center;
+	color:white;
+	margin:10px 5.25% 0px 0px;
+  	font-size:17px;
+	background-color:#3D3D3D;
+	float:right;
+}
+
+.winkelwagen:hover {
+	text-decoration:none;
+	background-color:#FF9900;
+}
+
+#content-fietsenoverzicht {
+	padding-top:15px;
+	height:625px;
+	width:100%;
+	background-color:#DCDCDC;
+}
+
+.container {
+	height:auto;
+	max-width:75% !important;
+	padding:0px !important;
+}
+
+.nav-pills, .nav-pills:hover {
+	height:20px;
+	padding:0px;
+	margin-left:22.85%;
+}
+
+a.nav-link {
+	color:#3D3D3D !important;
+}
+
+.nav-link.active {
+	color:white !important;
+	background-color:#FF9900 !important;
+	padding-top:5px;
+}
+
+.grid-container {
+  	display:grid;
+  	grid-template-columns:auto auto auto;
+  	background-color:#DCDCDC;
+  	padding:10px;
+}
+
+.grid-fiets {
+	height:250px;
+  	background-color:white;
+  	border:5px solid #DCDCDC;
+  	font-size:30px;
+  	text-align:center;
+	color:#3D3D3D;
+}
+
+img.fiets {
+	margin-top:15px;
+	max-height:150px;
+	max-width:220px;
+	object-fit:cover;
+	text-align:center;
+}
+
+.tab-content {
+	margin:0px auto;
+}
+
+h1 {
+	margin-top:10px !important;
+	font-size:0.7em !important;
+	display:block;
+}
+
+.prijs {
+	height:25px;
+	width:72.5px;
+	font-size:18px;
+	color:white;
+	margin:1.75% 0% 0% 70.8%;
+	border-radius:5px;
+	display:block;
+	background-color:#FF9900;
+}
+
+.prijs-oud {
+	height:25px;
+	width:72.5px;
+	font-size:18px;
+	color:#F8F8F8;
+	margin:1.75% 0% 0% 70.8%;
+	border-radius:5px;
+	display:block;
+	background-color:#6C757D;
+	text-decoration:line-through;
+}
+
+.prijs-actie {
+	height:25px;
+	width:72.5px;
+	font-size:18px;
+	color:white;
+	margin:1.75% 0% 0% 41%;
+	border-radius:5px;
+	display:block;
+	background-color:#17A2B8;
+	font-weight:500;
+	float:left;
+}
+
+.prijs-korting {
+	height:25px;
+	width:72.5px;
+	font-size:18px;
+	color:white;
+	margin:1.75% 0% 0% 70.8%;
+	border-radius:5px;
+	display:block;
+	background-color:#17A2B8;
+}
+
+.prijs-kortingPerc {
+	height:25px;
+	width:72.5px;
+	font-size:18px;
+	color:white;
+	margin:1.75% 0% 0% 41%;
+	border-radius:5px;
+	display:block;
+	background-color:#DC3545;
+	font-weight:500;
+	float:left;
+}
+
+.prijs-sale {
+	height:25px;
+	width:72.5px;
+	font-size:16px;
+	color:white;
+	margin:1.75% 0% 0% 41%;
+	border-radius:5px;
+	display:block;
+	background-color:#28A745;
+	font-weight:bold;
+	float:left;
+	text-transform:uppercase;
+}
+
+#footer {
+	height:50px;
+	width:100%;
+	text-align:center;
+	line-height:50px;
+	background-color:#3D3D3D;
+}
+
+#footer p {
+	font-family:Arial;
+	font-size:16px;
+	color:white;
+	margin-bottom:0px;
+}
+
+/* CSS voor responsive website */
+
+@media screen and (max-width: 560px) {
+	
+	.hamburger {
+    	cursor: pointer;
+    	padding: 15px;
+    	display: block;
+		right:25%;
+  	}
+	
+	.line {
+		border-bottom: 4px solid #bbb;
+		width: 35px;
+		margin-bottom: 6px;
+	}
+  
+	.line:last-child {
+    	margin-bottom: 0;
+  	}
+	
+	nav li {
+    	width:100%;
+  	}
+  
+	.menu {
+		height:0px;
+		overflow:hidden;
+		transition:height 0.3s linear;
+	}
+	
+	.open {
+		height:295px;
+	}
+	
+	.winkelwagen {
+		margin:10px 3% 0px 0px;
+		float:right;
+	}
+	
+	.btn.btn-primary.dropdown-toggle {
+		margin-left:0.5%;
+	}
+	
+	.nav-item {
+		margin-left:2%;	
+	}
+	
+	.grid-container {
+		display:grid;
+  		grid-template-columns:auto;
+  		background-color:#DCDCDC;
+  		padding:10px;
+	}
+	
+	#content-fietsenoverzicht {
+		padding-top:15px;
+		height:auto;
+		width:100%;
+		background-color:#DCDCDC;
+	}
+	
+	img.logo {
+		height:100px;
+		max-width:100%;
+		position:absolute;
+		top:16px;
+		left:50px;
+		z-index:99999;
+	}
+}
+
+@media all and (min-width: 561px) and (max-width: 760px) {
+	
+	.hamburger {
+    	cursor: pointer;
+    	padding: 15px;
+    	display: block;
+		right:85%;
+  	}
+	
+	.line {
+		border-bottom: 4px solid #bbb;
+		width: 35px;
+		margin-bottom: 6px;
+	}
+  
+	.line:last-child {
+    	margin-bottom: 0;
+  	}
+	
+	nav li {
+    	width:100%;
+  	}
+  
+	.menu {
+		height:0px;
+		overflow:hidden;
+		transition:height 0.3s linear;
+	}
+	
+	.open {
+		height:295px;
+	}
+	
+	.btn.btn-primary.dropdown-toggle {
+		margin-left:10%;
+	}
+	
+	.nav-item {
+		margin-left:1.5%;	
+	}
+	
+	.grid-container {
+		display:grid;
+  		grid-template-columns:auto;
+  		background-color:#DCDCDC;
+  		padding:10px;
+	}
+	
+	#content-fietsenoverzicht {
+		padding-top:15px;
+		height:auto;
+		width:100%;
+		background-color:#DCDCDC;
+	}
+	
+	img.logo {
+		height:150px;
+		max-width:100%;
+		position:absolute;
+		top:16px;
+		left:50px;
+		z-index:99999;
+	}
+	
+	.navbar.navbar-expand-sm.bg-light {
+		left:62.5%;
+	}
+}
+
+@media all and (min-width: 761px) and (max-width: 1020px) {
+	
+	.nav-pills {
+		margin-left:23.4%;
+	}
+	
+	.grid-container {
+		display:grid;
+  		grid-template-columns:auto auto;
+  		background-color:#DCDCDC;
+  		padding:10px;
+	}
+	
+	#content-fietsenoverzicht {
+		padding-top:15px;
+		height:auto;
+		width:100%;
+		background-color:#DCDCDC;
+	}
+	
+	img.logo {
+		height:175px;
+		max-width:100%;
+		position:absolute;
+		top:16px;
+		left:50px;
+		z-index:99999;
+	}
+}
