@@ -97,7 +97,7 @@ input[type=text] {
 	height:30px;
 	text-align:center;
 	color:white;
-	margin:10px 0px 0px 15px;
+	margin:10px 0px 0px 1%;
   	font-size:17px;
 	background-color:#3D3D3D;
 	outline:none;
@@ -110,7 +110,7 @@ input[type=text]::placeholder {
 
 .fa-search {
 	color:#3D3D3D;
-	margin-left:80px;
+	margin-left:5.25%;
 	font-size:20px;
 }
 
@@ -126,7 +126,7 @@ input[type=text]::placeholder {
 	line-height:15px;
 	text-align:center;
 	color:white;
-	margin-left:20px;
+	margin-left:20%;
   	font-size:17px;
 	background-color:#3D3D3D;
 	margin-top:-5px;
@@ -188,7 +188,7 @@ ul.dropdown-menu.show {
 	line-height:30px;
 	text-align:center;
 	color:white;
-	margin:10px 80px 0px 0px;
+	margin:10px 5.25% 0px 0px;
   	font-size:17px;
 	background-color:#3D3D3D;
 	float:right;
@@ -215,7 +215,7 @@ ul.dropdown-menu.show {
 .nav-pills, .nav-pills:hover {
 	height:20px;
 	padding:0px;
-	margin-left:346px;
+	margin-left:22.85%;
 }
 
 a.nav-link {
@@ -252,6 +252,10 @@ img.fiets {
 	text-align:center;
 }
 
+.tab-content {
+	margin:0px auto;
+}
+
 h1 {
 	margin-top:10px !important;
 	font-size:0.7em !important;
@@ -263,7 +267,7 @@ h1 {
 	width:72.5px;
 	font-size:18px;
 	color:white;
-	margin:5px -90px 0px 190px;
+	margin:1.75% 0% 0% 70.8%;
 	border-radius:5px;
 	display:block;
 	background-color:#FF9900;
@@ -274,7 +278,7 @@ h1 {
 	width:72.5px;
 	font-size:18px;
 	color:#F8F8F8;
-	margin:5px -90px 0px 190px;
+	margin:1.75% 0% 0% 70.8%;
 	border-radius:5px;
 	display:block;
 	background-color:#6C757D;
@@ -286,7 +290,7 @@ h1 {
 	width:72.5px;
 	font-size:18px;
 	color:white;
-	margin:5px -90px 0px 110px;
+	margin:1.75% 0% 0% 41%;
 	border-radius:5px;
 	display:block;
 	background-color:#17A2B8;
@@ -299,7 +303,7 @@ h1 {
 	width:72.5px;
 	font-size:18px;
 	color:white;
-	margin:5px -90px 0px 190px;
+	margin:1.75% 0% 0% 70.8%;
 	border-radius:5px;
 	display:block;
 	background-color:#17A2B8;
@@ -310,7 +314,7 @@ h1 {
 	width:72.5px;
 	font-size:18px;
 	color:white;
-	margin:5px -90px 0px 110px;
+	margin:1.75% 0% 0% 41%;
 	border-radius:5px;
 	display:block;
 	background-color:#DC3545;
@@ -323,7 +327,7 @@ h1 {
 	width:72.5px;
 	font-size:16px;
 	color:white;
-	margin:5px -90px 0px 110px;
+	margin:1.75% 0% 0% 41%;
 	border-radius:5px;
 	display:block;
 	background-color:#28A745;
@@ -345,4 +349,175 @@ h1 {
 	font-size:16px;
 	color:white;
 	margin-bottom:0px;
+}
+
+/* CSS voor responsive website */
+
+@media screen and (max-width: 560px) {
+	
+	.hamburger {
+    	cursor: pointer;
+    	padding: 15px;
+    	display: block;
+		right:25%;
+  	}
+	
+	.line {
+		border-bottom: 4px solid #bbb;
+		width: 35px;
+		margin-bottom: 6px;
+	}
+  
+	.line:last-child {
+    	margin-bottom: 0;
+  	}
+	
+	nav li {
+    	width:100%;
+  	}
+  
+	.menu {
+		height:0px;
+		overflow:hidden;
+		transition:height 0.3s linear;
+	}
+	
+	.open {
+		height:295px;
+	}
+	
+	.winkelwagen {
+		margin:10px 3% 0px 0px;
+		float:right;
+	}
+	
+	.btn.btn-primary.dropdown-toggle {
+		margin-left:0.5%;
+	}
+	
+	.nav-item {
+		margin-left:2%;	
+	}
+	
+	.grid-container {
+		display:grid;
+  		grid-template-columns:auto;
+  		background-color:#DCDCDC;
+  		padding:10px;
+	}
+	
+	#content-fietsenoverzicht {
+		padding-top:15px;
+		height:auto;
+		width:100%;
+		background-color:#DCDCDC;
+	}
+	
+	img.logo {
+		height:100px;
+		max-width:100%;
+		position:absolute;
+		top:16px;
+		left:50px;
+		z-index:99999;
+	}
+}
+
+@media all and (min-width: 561px) and (max-width: 760px) {
+	
+	.hamburger {
+    	cursor: pointer;
+    	padding: 15px;
+    	display: block;
+		right:85%;
+  	}
+	
+	.line {
+		border-bottom: 4px solid #bbb;
+		width: 35px;
+		margin-bottom: 6px;
+	}
+  
+	.line:last-child {
+    	margin-bottom: 0;
+  	}
+	
+	nav li {
+    	width:100%;
+  	}
+  
+	.menu {
+		height:0px;
+		overflow:hidden;
+		transition:height 0.3s linear;
+	}
+	
+	.open {
+		height:295px;
+	}
+	
+	.btn.btn-primary.dropdown-toggle {
+		margin-left:10%;
+	}
+	
+	.nav-item {
+		margin-left:1.5%;	
+	}
+	
+	.grid-container {
+		display:grid;
+  		grid-template-columns:auto;
+  		background-color:#DCDCDC;
+  		padding:10px;
+	}
+	
+	#content-fietsenoverzicht {
+		padding-top:15px;
+		height:auto;
+		width:100%;
+		background-color:#DCDCDC;
+	}
+	
+	img.logo {
+		height:150px;
+		max-width:100%;
+		position:absolute;
+		top:16px;
+		left:50px;
+		z-index:99999;
+	}
+	
+	.navbar.navbar-expand-sm.bg-light {
+		left:62.5%;
+	}
+}
+
+@media all and (min-width: 761px) and (max-width: 1020px) {
+	
+	.nav-pills {
+		margin-left:23.4%;
+	}
+	
+	.grid-container {
+		display:grid;
+  		grid-template-columns:auto auto;
+  		background-color:#DCDCDC;
+  		padding:10px;
+	}
+	
+	#content-fietsenoverzicht {
+		padding-top:15px;
+		height:auto;
+		width:100%;
+		background-color:#DCDCDC;
+	}
+	
+	img.logo {
+		height:175px;
+		max-width:100%;
+		position:absolute;
+		top:16px;
+		left:50px;
+		z-index:99999;
+	}
 }
