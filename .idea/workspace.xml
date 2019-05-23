@@ -2,391 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e554841-613c-4a89-a8a4-eda7a7846749" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.idea/Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Console/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Exceptions/Handler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Controllers/Controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Kernel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Middleware/Authenticate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Providers/AppServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Providers/AuthServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Providers/EventServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/Providers/RouteServiceProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/app/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/artisan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/bootstrap/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/bootstrap/cache/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/broadcasting.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/filesystems.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/hashing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/logging.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/mail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/queue.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/services.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/session.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/config/view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/database/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/database/factories/UserFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/database/seeds/DatabaseSeeder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/phpunit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/.idea/ContactFrom_v15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/9200000021014364.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/9200000039044500.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/Popal-Sienna-Damesfiets-28-inch-blauw-e1468455396485.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/Puch-Hands-Up-Heren-Coal-Black-Matt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/Stadsfiets+Elops+520+laag+frame+mint+Damesfiets+met+transportrek+en+mand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/Union-Flow-Heren-stadsfiets-28-inch-zwart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/WhatsApp Image 2019-05-13 at 12.54.46.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/active-adventure-bicycle-1208777.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/altec_metro_28_inch_herenfiets_7_versnellingen_-_grijs_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/altec_verona_28_inch_herenfiets_-_zwart_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/animate-custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/bc101211_98f2f74e69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/bc500575_25f0793093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/contactpagina.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/css/util.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/damesfiets-28-inch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/f616.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/homepagina.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/images/bg-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/images/icons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/images/icons/map-marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/js/map-custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/kinderfietsen-43-rood.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/l_styledzwart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/.idea/ContactFrom_v15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/css/util.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/eric-crawford-117911-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/images/bg-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/images/icons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/images/icons/map-marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/js/map-custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/animate/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/animsition/css/animsition.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/animsition/css/animsition.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/animsition/js/animsition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/animsition/js/animsition.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/js/popper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/bootstrap/js/tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/countdowntime/countdowntime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/css-hamburgers/hamburgers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/css-hamburgers/hamburgers.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/daterangepicker/daterangepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/daterangepicker/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/daterangepicker/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/daterangepicker/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/perfect-scrollbar/perfect-scrollbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/perfect-scrollbar/perfect-scrollbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/select2/select2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/ContactFrom_v15/vendor/select2/select2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/.idea/LoginRegistrationForm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/animate-custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/BebasNeue-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/BebasNeue-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/BebasNeue-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/BebasNeue-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/Dharma Type Font License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/fontomas-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/fontomas-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/fontomas-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/fontomas-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/franchise-bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/franchise-bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/franchise-bold-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/fonts/franchise-bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/style2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/css/style3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/images/ImageAttribution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/index3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/paginas/paginas/LoginRegistrationForm/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/productfoto_bestand_126036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/spirit-avance-mat-zwart-2876-1500x1000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/spirit-regular-man-mat-zwart-2836-2017-1500x1000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/util.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/animate/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/animsition/css/animsition.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/animsition/css/animsition.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/animsition/js/animsition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/animsition/js/animsition.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/js/popper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/bootstrap/js/tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/countdowntime/countdowntime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/css-hamburgers/hamburgers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/css-hamburgers/hamburgers.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/daterangepicker/daterangepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/daterangepicker/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/daterangepicker/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/daterangepicker/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/perfect-scrollbar/perfect-scrollbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/perfect-scrollbar/perfect-scrollbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/select2/select2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/vendor/select2/select2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/Stef hoofdpagina/woom2_1_side_red_1024x-600x400.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/js/components/ExampleComponent.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/lang/en/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/lang/en/pagination.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/lang/en/passwords.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/lang/en/validation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/sass/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/sass/app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/views/Search engine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/routes/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/routes/channels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/routes/console.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/routes/web.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/server.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/app/public/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/framework/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/framework/cache/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/framework/cache/data/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/framework/sessions/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/framework/testing/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/framework/views/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/storage/logs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/tests/CreatesApplication.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/tests/Feature/ExampleTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/tests/TestCase.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/tests/Unit/ExampleTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/vendor/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/vendor/composer/autoload_real.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/vendor/composer/autoload_static.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/webpack.mix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mysql/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/ib_buffer_pool" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/data/mysql/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/mysql/ibtmp1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/Case Chain Gang.docx" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -395,7 +12,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="287" column="56" selection-start-line="287" selection-start-column="56" selection-end-line="287" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -405,6 +39,7 @@
       <list>
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -496,17 +131,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -514,25 +139,30 @@
         <subPane>
           <expand>
             <path>
-              <item name="ContactFrom_v15" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ContactFrom_v15" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GreenPapers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GreenPapers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ContactFrom_v15" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ContactFrom_v15" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GreenPapers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GreenPapers" type="462c0819:PsiDirectoryNode" />
+              <item name="paginas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cleme\Documents\Versiebeheer\GitHub\GreenPapers\public" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -557,17 +187,18 @@
       <option name="presentableId" value="Default" />
       <updated>1558267764943</updated>
       <workItem from="1558267766542" duration="4026000" />
-      <workItem from="1558602459614" duration="255000" />
+      <workItem from="1558602459614" duration="1930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4281000" />
+    <option name="totallyTimeSpent" value="5956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.51627606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23828125" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -596,5 +227,12 @@
     <entry file="file://$PROJECT_DIR$/css/util.css" />
     <entry file="file://$PROJECT_DIR$/css/main.css" />
     <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="287" column="56" selection-start-line="287" selection-start-column="56" selection-end-line="287" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
