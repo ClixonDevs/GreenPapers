@@ -1,0 +1,304 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Chain Gang | Homepagina</title>
+	
+	<link rel="shortcut icon" type="image/x-icon" href="logo_scrum2.png">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	
+	<link rel="stylesheet" href="styles.css" type="text/css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+  	<script src="main.js"></script>
+</head>
+
+<body>
+	<div class="container-fluid">
+		<div id="menu">
+			<a href="homepagina.html">
+				<img src="logo_scrum2.png" alt="Logo Chain Gang" class="logo">
+			</a>
+					
+			<nav class="navbar navbar-expand-sm bg-light">
+				<div href="#" class="hamburger">
+					<div class="line"></div>
+					<div class="line"></div>
+					<div class="line"></div>
+				</div>
+
+				<ul class="navbar-nav ml-auto clearfix menu">
+					<li class="nav-item"><a class="nav-link menu" href="#">Home</a></li>
+					<li class="nav-item"><a class="nav-link menu" href="#">Winkel</a></li>
+					<li class="nav-item"><a class="nav-link menu" href="#">Mijn account</a></li>
+					<li class="nav-item"><a class="nav-link menu" href="#">Contact</a></li>
+					<li class="nav-item"><a class="nav-link menu" href="#">Nieuwsbrief</a></li>
+				</ul>
+				
+<!--
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item">
+						<a class="nav-link menu" href="#">Home</a>
+					</li>
+					
+					<li class="nav-item">
+						<a class="nav-link menu" href="#">Winkel</a>
+					</li>
+					
+					<li class="nav-item">
+						<a class="nav-link menu" href="#">Mijn account</a>
+					</li>
+					
+					<li class="nav-item">
+						<a class="nav-link menu" href="#">Contact</a>
+					</li>
+					
+					<li class="nav-item">
+						<a class="nav-link menu" href="#">Nieuwsbrief</a>
+					</li>
+			  	</ul>
+-->
+			</nav>
+			
+			<a href="#" class="login"><i class="fas fa-sign-out-alt"></i> Inloggen</a>
+		</div>
+		
+		<div id="header">
+			<div id="titel">
+				<h5 class="home">De fietsenwinkel van de Achterhoek.</h5>
+			</div>
+		</div>
+		
+		<div id="zoekbalk">
+			<a href="#"><i class="fas fa-search"></i></a> <input type="text" placeholder="Zoeken">
+			
+			<div class="dropdown">
+				<button class="btn btn-primary dropdown-toggle shadow-none" type="button" data-toggle="dropdown">Filter
+					<span class="caret"></span>
+				</button>
+				
+				<ul class="dropdown-menu">
+					<li><a href="#">Herenfietsen</a></li>
+					<li><a href="#">Damesfietsen</a></li>
+					<li><a href="#">Kinderfietsen</a></li>
+					<div class="dropdown-divider"></div>
+					<li><a href="#"> <i class="fas fa-sort-amount-up"></i> Prijs oplopend</a></li>
+					<li><a href="#"> <i class="fas fa-sort-amount-down"></i> Prijs aflopend</a></li>
+  				</ul>
+			</div>
+			
+			<a href="#" class="winkelwagen"><i class="fas fa-shopping-cart"></i> €0,00</a>
+		</div>
+		
+		<div id="content-fietsenoverzicht">			
+			<ul class="nav nav-pills" role="tablist">
+				<li class="nav-item">
+					<a class="nav-link active" data-toggle="pill" href="#herenfietsen">Herenfietsen</a>
+    			</li>
+				
+				<li class="nav-item">
+					<a class="nav-link" data-toggle="pill" href="#damesfietsen">Damesfietsen</a>
+				</li>
+				
+				<li class="nav-item">
+					<a class="nav-link" data-toggle="pill" href="#kinderfietsen">Kinderfietsen</a>
+				</li>
+  			</ul>
+			
+			<div class="tab-content">
+				<div id="herenfietsen" class="container tab-pane active">
+					<div class="container">
+						<div class="grid-container">
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs">€299,99</div>
+									<img src="altec_verona_28_inch_herenfiets_-_zwart_2.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-actie">€349,99</div> <div class="prijs-oud">€499,99</div>
+									<img src="altec_metro_28_inch_herenfiets_7_versnellingen_-_grijs_2.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs">€289,99</div>
+									<img src="spirit-avance-mat-zwart-2876-1500x1000.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-kortingPerc">–15%</div> <div class="prijs-korting">€299,99</div>
+									<img src="bc500575_25f0793093.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs">€699,49</div>
+									<img src="spirit-regular-man-mat-zwart-2836-2017-1500x1000.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-sale">sale</div> <div class="prijs">€329,99</div>
+									<img src="Puch-Hands-Up-Heren-Coal-Black-Matt.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+						</div>
+					</div>
+    			</div>
+				
+				<div id="damesfietsen" class="container tab-pane tab-pane fade">
+					<div class="container">
+						<div class="grid-container">
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-actie">€329,99</div> <div class="prijs-oud">€449,99</div>
+									<img src="l_styledzwart.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs">€279,99</div>
+									<img src="bc101211_98f2f74e69.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-actie">€399,99</div> <div class="prijs-oud">€469,99</div>
+									<img src="image.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-kortingPerc">–20%</div> <div class="prijs-korting">€299,99</div>
+									<img src="damesfiets-28-inch.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-sale">sale</div> <div class="prijs">€549,99</div>
+									<img src="Popal-Sienna-Damesfiets-28-inch-blauw-e1468455396485.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs">€389,99</div>
+									<img src="f616.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+				
+				<div id="kinderfietsen" class="container tab-pane tab-pane fade">
+					<div class="container">
+						<div class="grid-container">
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs">€129,99</div>
+									<img src="woom2_1_side_red_1024x-600x400.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs">€169,99</div>
+									<img src="kinderfietsen-43-rood.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-kortingPerc">–20%</div> <div class="prijs-korting">€99,99</div>
+									<img src="9200000021014364.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs">€139,99</div>
+									<img src="productfoto_bestand_126036.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-actie">€119,99</div> <div class="prijs-oud">€189,99</div>
+									<img src="images.jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>
+							
+							<a href="#">
+								<div class="grid-fiets">
+									<div class="prijs-actie">€124,99</div> <div class="prijs-oud">€159,99</div>
+									<img src="9200000039044500 .jpg" alt="Geen productfoto beschikbaar" class="fiets">
+
+									<h1>Producttitel</h1>
+								</div>
+							</a>							
+						</div>
+					</div>
+    			</div>
+			</div>
+		</div>
+		
+		<div id="footer">
+			<p>&copy; 2019 - Chain Gang - Alle rechten voorbehouden.</p>
+		</div>
+	</div>
+</body>
+</html>
